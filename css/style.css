@@ -615,7 +615,7 @@ ul.dropdown-menu li {
   top: 0px;
   width: 47%;
   height: 100%;
-  background: #863bae;
+  background: none;
 }
 
 .volunteer-content {
@@ -1871,4 +1871,10 @@ padding-bottom: 15px;
 }
 
 /*editing end*/
+
+/*what we can do section*/
+#more {display: none;}
+#more1 {display: none;}
+#more2 {display: none;}
+#more3 {display: none;}
 
