@@ -211,4 +211,3 @@
 		  moreText.style.display = "inline";
 		}
 	  }
-	  
